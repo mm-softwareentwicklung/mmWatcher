@@ -20,6 +20,7 @@
 - **Netzwerksperre:** Sobald der Bildschirm gesperrt wird, sperrt mmWatcher wahlweise die gesamte Netzwerkverbindung oder nur eingehende Verbindungen – Fernzugriff ist dann unmöglich. Beim Entsperren ist das Netzwerk sofort wieder offen.
 - **Nur Menüleiste:** Ein Klick öffnet die Einstellungen, ein Rechtsklick schaltet Wachmodus und Netzwerksperre ein und aus. Das Symbol ist wählbar und lässt sich ausblenden.
 - **Start bei der Anmeldung** und nach jedem Neustart.
+- **Erscheinungsbild** wählbar: Automatisch (wie das System), Hell oder Dunkel.
 - **Automatische Updates** nach Bestätigung, **Deutsch, Englisch, Französisch, Italienisch und Spanisch**, Liquid Glass ab macOS 26.
 
 <picture>
@@ -31,18 +32,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-awake-dark.png">
-    <img src="images/de/settings-awake-light.png" width="49%" alt="Einstellungen – Wachmodus">
+    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-general-dark.png">
+    <img src="images/de/settings-general-light.png" width="49%" alt="Einstellungen – Allgemein mit Erscheinungsbild">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-network-dark.png">
-    <img src="images/de/settings-network-light.png" width="49%" alt="Einstellungen – Netzwerksperre">
+    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-awake-dark.png">
+    <img src="images/de/settings-awake-light.png" width="49%" alt="Einstellungen – Wachmodus">
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-general-dark.png">
-    <img src="images/de/settings-general-light.png" width="49%" alt="Einstellungen – Allgemein">
+    <source media="(prefers-color-scheme: dark)" srcset="images/de/settings-network-dark.png">
+    <img src="images/de/settings-network-light.png" width="49%" alt="Einstellungen – Netzwerksperre">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/de/about-dark.png">
@@ -86,16 +87,27 @@ mmWatcher keeps your Mac awake permanently – and, if you like, blocks the netw
 - **Network lock:** as soon as the screen is locked, mmWatcher blocks either the entire network connection or incoming connections only – remote access becomes impossible. When you unlock the screen, the network is open again right away.
 - **Menu bar only:** a click opens the settings, a right-click switches awake mode and network lock on and off. Choose the icon or hide it.
 - **Launch at login** and after every restart.
+- **Appearance** of your choice: Automatic (like the system), Light or Dark.
 - **Automatic updates** once you confirm, **English, German, French, Italian and Spanish**, Liquid Glass on macOS 26 and later.
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/en/settings-general-dark.png">
+    <img src="images/en/settings-general-light.png" width="49%" alt="Settings – General with appearance">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/en/settings-awake-dark.png">
     <img src="images/en/settings-awake-light.png" width="49%" alt="Settings – Awake Mode">
   </picture>
+</p>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/en/settings-network-dark.png">
     <img src="images/en/settings-network-light.png" width="49%" alt="Settings – Network Lock">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/en/about-dark.png">
+    <img src="images/en/about-light.png" width="49%" alt="About window">
   </picture>
 </p>
 
