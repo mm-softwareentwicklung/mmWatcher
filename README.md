@@ -134,7 +134,7 @@ Only macOS itself may block the network. For this, mmWatcher installs a small sy
 
 ---
 
-© 2026 Matthias Müller – Softwareentwicklung · [www.mm-softwareentwicklung.de](https://www.mm-softwareentwicklung.de)
+© 2026 Matthias Müller – Softwareentwicklung · Alle Rechte vorbehalten / All rights reserved · [Lizenzbestimmungen / License terms](LICENSE.md) · [www.mm-softwareentwicklung.de](https://www.mm-softwareentwicklung.de)
 
 Alle genannten Produkt- und Firmennamen sind Marken ihrer jeweiligen Inhaber.<br>
 All product and company names mentioned are trademarks of their respective owners.
