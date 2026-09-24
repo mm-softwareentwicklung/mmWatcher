@@ -21,7 +21,7 @@
 - **Nur Menüleiste:** Ein Klick öffnet die Einstellungen, ein Rechtsklick schaltet Wachmodus und Netzwerksperre ein und aus. Das Symbol ist wählbar und lässt sich ausblenden.
 - **Start bei der Anmeldung** und nach jedem Neustart.
 - **Erscheinungsbild** wählbar: Automatisch (wie das System), Hell oder Dunkel.
-- **Automatische Updates** nach Bestätigung, **Deutsch, Englisch, Französisch, Italienisch und Spanisch**, Liquid Glass ab macOS 26.
+- **Signiert und von Apple beglaubigt**, **automatische Updates** nach Bestätigung, **Deutsch, Englisch, Französisch, Italienisch und Spanisch**, Liquid Glass ab macOS 26.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/de/menubar-dark.png">
@@ -55,7 +55,7 @@
 
 1. Unter [Releases](../../releases/latest) die Datei `mmWatcher-<Version>.dmg` herunterladen.
 2. DMG öffnen und mmWatcher in den Ordner „Programme“ ziehen.
-3. Beim ersten Start fragt macOS nach einer Freigabe: Systemeinstellungen › Datenschutz & Sicherheit › „Trotzdem öffnen“. Details stehen in der Anleitung in der DMG.
+3. mmWatcher per Doppelklick öffnen – die App ist mit einem Apple-Entwicklerzertifikat signiert und von Apple beglaubigt (notarisiert), es erscheint keine Sicherheitsabfrage.
 
 Danach aktualisiert sich mmWatcher selbst: Die App sucht täglich nach neuen Versionen und installiert sie nach Bestätigung (Einstellungen › Allgemein › „Jetzt suchen …“).
 
@@ -88,7 +88,7 @@ mmWatcher keeps your Mac awake permanently – and, if you like, blocks the netw
 - **Menu bar only:** a click opens the settings, a right-click switches awake mode and network lock on and off. Choose the icon or hide it.
 - **Launch at login** and after every restart.
 - **Appearance** of your choice: Automatic (like the system), Light or Dark.
-- **Automatic updates** once you confirm, **English, German, French, Italian and Spanish**, Liquid Glass on macOS 26 and later.
+- **Signed and notarized by Apple**, **automatic updates** once you confirm, **English, German, French, Italian and Spanish**, Liquid Glass on macOS 26 and later.
 
 <p align="center">
   <picture>
@@ -115,7 +115,7 @@ mmWatcher keeps your Mac awake permanently – and, if you like, blocks the netw
 
 1. Download `mmWatcher-<version>.dmg` from [Releases](../../releases/latest).
 2. Open the disk image and drag mmWatcher to the Applications folder.
-3. On first launch macOS asks for your approval: System Settings › Privacy & Security › “Open Anyway”. The guide inside the disk image has the details (in German).
+3. Double-click mmWatcher – the app is signed with an Apple developer certificate and notarized by Apple, so macOS opens it without any warning.
 
 After that mmWatcher updates itself: it checks for new versions daily and installs them once you confirm (Settings › General › “Check Now…”).
 
